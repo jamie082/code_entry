@@ -1,77 +1,23 @@
 <!DOCTYPE html>
-<html>
-	<title>Login</title>
-	<style>
-	.main {
-		font-size: 32px;
-		font-weight: bold;
-		text-align: center;
-	}
+<head>
+    <style>
+    .main {
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+    }
 
-	#box {
-		padding-top: 40px;
-		width: 400px;
-		height: 100px;
-		border: 50px solid green;
-		margin: 50px;
-		text-align: center;
-		font-size: 32px;
-		font-weight: bold;
-	}
+    .middlediv {
+	    float: middle;
+	    background-color: gray;
+    }
 
-	.p {
-		font-size: 36px;
-		font-weight: bold;
-		text-align; center;
-	}
 
-	img {
-		border: 1px solid #ddd;
-		border-radius: 4px;
-		padding: 5px;
-		width: 25%;
-		height: 25%;
-	}
-
-	</style>
+    </style>
 </head>
-
-<head>
+  
 <body>
-	<div class="main">CSS Box Model Property</div>
-	<div class="box">Box Model #2</div>
-	<img src="pad_lock" alt="Pad Lcck"</a>
-	<!--	
-	<form>
-	<center>
-			User ID: <input type="text" name="user_id" /><br />
-			Password: <input type="password" name="password" /><br />
-	<input type = "submit" name="submit" value="Submit" />
-	</center>
-	</p>
-	</form>
-	-->
-
+	<div class="middlediv">
+	<p>How are you?</p>
 </body>
 </html>
-<!---
-
-<head>
-<body>
-	<form>
-			<div class="main">CSS Box-Model Property</div>
-			<img src="padlock.jpg" alt="Padlock Image"> </img>
-				<div class="box">Box</div>
-				<p>
-				<center>
-					User ID: <input type="text" name="user_id" /><br />
-					Password: <input type="password" name="password" /><br />
-				<input type = "submit" name = "submit" value="Submit" />
-			</p>
-			</center>
-	</form>
-</body>
-</html>
-
-
--- >
